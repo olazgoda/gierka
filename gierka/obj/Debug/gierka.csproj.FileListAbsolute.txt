@@ -1,0 +1,12 @@
+c:\users\ola\documents\visual studio 2017\Projects\gierka\gierka\obj\Debug\gierka.csprojResolveAssemblyReference.cache
+c:\users\ola\documents\visual studio 2017\Projects\gierka\gierka\bin\Debug\gierka.exe.config
+c:\users\ola\documents\visual studio 2017\Projects\gierka\gierka\bin\Debug\gierka.exe
+c:\users\ola\documents\visual studio 2017\Projects\gierka\gierka\bin\Debug\gierka.pdb
+c:\users\ola\documents\visual studio 2017\Projects\gierka\gierka\obj\Debug\gierka.exe
+c:\users\ola\documents\visual studio 2017\Projects\gierka\gierka\obj\Debug\gierka.pdb
+D:\Desktop\gierka\gierka\bin\Debug\gierka.exe.config
+D:\Desktop\gierka\gierka\bin\Debug\gierka.exe
+D:\Desktop\gierka\gierka\bin\Debug\gierka.pdb
+D:\Desktop\gierka\gierka\obj\Debug\gierka.csprojResolveAssemblyReference.cache
+D:\Desktop\gierka\gierka\obj\Debug\gierka.exe
+D:\Desktop\gierka\gierka\obj\Debug\gierka.pdb
