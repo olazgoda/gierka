@@ -79,20 +79,6 @@ namespace gierka
             _exp_limit = exp_limit;
         }
 
-        /*class SlabyPrzeciwnik : Postac
-        {
-                //w konstruktorze muszą być wartosci jakie obecnie ma nasza postać
-        }
-           
-        class MocnyPrzeciwnik : Postac
-        {
-                //w konstruktorze muszą być większe wartosci niz ma obecnie nasza postać
-        }
-
-        class Boss : Postac
-        {
-            //w konstruktorze muszą być większe wartosci niz ma obecnie nasza postać
-        }
-        */
+     
     }
 }
